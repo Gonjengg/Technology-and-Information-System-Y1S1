@@ -19,7 +19,7 @@ I was able to get an extensive knowledge of the various departments involved and
 
 # Assignment 3 (Academic Report on Industrial Talk of System Development in Credence)
 
-Link report - <https://docs.google.com/document/d/1CKY7GKLyPW_JyesZsozR827PyLllKhQPhFqyXyiWNig/edit?usp=sharing>
+Tap here to see [report](https://github.com/Gonjengg/Technology-and-Information-System-Y1S1/blob/main/INDUSTRY%20TALK%20GROUP%205%20(1).pdf)
 
 Reflection 
 
