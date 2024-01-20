@@ -11,7 +11,7 @@ First and foremost, I want to show my gratitude towards both representatives of 
 
 # Assignment 2 (Industry Talk and Visit To UTM Digital)
 
-Link video - <https://drive.google.com/file/d/1gj3ZSjccht-sYQGOkYyKt3p3-2K8n4Fp/view?usp=drivesdk>
+Click [here](https://drive.google.com/file/d/1gj3ZSjccht-sYQGOkYyKt3p3-2K8n4Fp/view?usp=drivesdk) to see my group's video.
 
 Reflection
 
