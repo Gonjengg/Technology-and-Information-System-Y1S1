@@ -56,7 +56,7 @@ Assembling a PC was a challenging but worthwhile project. This project give me a
 
 Tap to see [Design Thinking Report](https://github.com/Gonjengg/Technology-and-Information-System-Y1S1/blob/main/DESIGN%20THINKING%20GROUP%205.pdf)
 
-Tap to see [slide presenation](https://www.canva.com/design/DAF3MP7odhY/i0m8S_OGDjk_skl7edy_eg/edit?utm_content=DAF3MP7odhY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) Design Thinking
+Tap to see [slide presentation Design Thinking](https://www.canva.com/design/DAF3MP7odhY/i0m8S_OGDjk_skl7edy_eg/edit?utm_content=DAF3MP7odhY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 Tap to see [Design Thinking Videovideo](https://youtu.be/Z6f8uyXInJ4?si=Mmpvk1Qlo9jVPmkG)
 
