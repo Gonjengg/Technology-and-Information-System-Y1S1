@@ -27,7 +27,16 @@ I learned a bit about history of Credence, what did the provide and what technol
 
 # Assignment 4 (Industrial Visit to PETRONAS and HUAWEI)
 
-Link poster - <https://www.canva.com/design/DAF3CDeQEXM/vZPQuXSW-jgu8xgWmz4JfQ/edit?utm_content=DAF3CDeQEXM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
+Tap to see [poster](https://github.com/Gonjengg/Technology-and-Information-System-Y1S1/blob/main/Newsletter%20(1).pdf)
+
+
+![photo_2024-01-20_18-50-58](https://github.com/Gonjengg/Technology-and-Information-System-Y1S1/assets/148249930/4d4164d3-f823-4e38-a292-8d0cd3e1e853)
+![photo_2024-01-20_18-51-08](https://github.com/Gonjengg/Technology-and-Information-System-Y1S1/assets/148249930/7b735fa7-1c65-4177-8a99-6d61c7c4ac82)
+
+
+
+
+
 
 Reflection
 
