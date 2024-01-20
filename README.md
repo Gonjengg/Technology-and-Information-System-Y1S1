@@ -42,7 +42,9 @@ Assembling a PC was a challenging but worthwhile project. This project give me a
 # Design Thinking
 
 Link report - <https://docs.google.com/document/d/1Fu2d_hpoNruqnxq7OgQSp6aaxBRy37q1lZ0yCxlGAxA/edit?usp=sharing>
+
 Link slide presentation - <https://www.canva.com/design/DAF3MP7odhY/i0m8S_OGDjk_skl7edy_eg/edit?utm_content=DAF3MP7odhY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
+
 Link video - <https://youtu.be/Z6f8uyXInJ4?si=Mmpvk1Qlo9jVPmkG>
 
 Reflection
