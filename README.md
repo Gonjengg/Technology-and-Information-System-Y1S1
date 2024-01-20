@@ -3,7 +3,7 @@
 # Assignment
 # Assignment 1 (Industry Talk with PPG and GetMe Hired)
 
-Link poster - <https://www.canva.com/design/DAFzYcs9WiA/tZBy31N8M_svaftow9LteA/edit?utm_content=DAFzYcs9WiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
+Tap to see my [poster](https://github.com/Gonjengg/Technology-and-Information-System-Y1S1/blob/main/Poster%20Career%20Development.png)
 
 Reflection
 
@@ -11,7 +11,7 @@ First and foremost, I want to show my gratitude towards both representatives of 
 
 # Assignment 2 (Industry Talk and Visit To UTM Digital)
 
-Click [here](https://drive.google.com/file/d/1gj3ZSjccht-sYQGOkYyKt3p3-2K8n4Fp/view?usp=drivesdk) to see my group's video.
+Tap [here](https://drive.google.com/file/d/1gj3ZSjccht-sYQGOkYyKt3p3-2K8n4Fp/view?usp=drivesdk) to see my group's video.
 
 Reflection
 
@@ -34,6 +34,10 @@ Reflection
 The visit to PETRONAS and HUAWEI are very informative. I learned that PETRONAS are still investigating the digital growth including the Internet of Things (IoT), cloud computing, connectivity, security, process automation, and analytics. Next, i have been exposed by HUAWEI's product which are advanced for example Ideahub. The visit to these two companies was an eye-opening experince to me. It made me realize that I need to learn much more to strive as big as those companies are right now. I intend to fill me up with some technical skills and improve my soft skills.
 
 # PC Assembly
+
+![pc assembly (1)](https://github.com/Gonjengg/Technology-and-Information-System-Y1S1/assets/148249930/9902666e-e1c7-4267-81ce-9abf869d04cd)
+
+
 
 Reflection
 
