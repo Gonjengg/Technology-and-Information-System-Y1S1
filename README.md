@@ -5,6 +5,10 @@
 
 Tap to see my [poster](https://github.com/Gonjengg/Technology-and-Information-System-Y1S1/blob/main/Poster%20Career%20Development.png)
 
+
+![photo_2024-01-20_18-51-19](https://github.com/Gonjengg/Technology-and-Information-System-Y1S1/assets/148249930/4d10d3cb-abfa-405a-8ebc-16e7ea5c4c35)
+
+
 Reflection
 
 First and foremost, I want to show my gratitude towards both representatives of GetMe Hired and PPG company for the willingness to spend some time to give meaningful talk and advices to students. I learned how to write an impactful CV and what element needed in the CV to increase employment probability. I would say that going to the career development talk was a very meaningful experience. It has inspired me and equipped me with the means to seek a more promising future. I am excited to apply the tactics and guidance I learned from the discussion, and I have no doubt that doing so would enable me to have a better and more effective career.
@@ -12,6 +16,12 @@ First and foremost, I want to show my gratitude towards both representatives of 
 # Assignment 2 (Industry Talk and Visit To UTM Digital)
 
 Tap [here](https://drive.google.com/file/d/1gj3ZSjccht-sYQGOkYyKt3p3-2K8n4Fp/view?usp=drivesdk) to see my group's video.
+
+
+![photo_2024-01-20_18-56-30](https://github.com/Gonjengg/Technology-and-Information-System-Y1S1/assets/148249930/49dac2d5-2225-443c-bee3-f23554ed2203)
+
+
+
 
 Reflection
 
